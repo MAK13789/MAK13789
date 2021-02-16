@@ -2,7 +2,7 @@
 
 <!--
 **MAK13789/MAK13789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![MAK13789's github stats](https://github-readme-stats.vercel.app/api?username=MAK13789)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
